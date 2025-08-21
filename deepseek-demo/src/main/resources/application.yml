@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: dashscope-demo
+  ai:
+    dashscope:
+      api-key: sk-4bd5cbed134a4aeb954c3116be49723e
+      chat:
+        options:
+          top-k: 1
+          top-p: 1
+          model: deepseek-r1
