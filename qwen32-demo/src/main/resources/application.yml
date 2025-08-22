@@ -1,14 +1,14 @@
-
 spring:
   application:
-    name: dashscope-demo
+    name: qwen32-demo
   ai:
     dashscope:
+      #
       api-key: sk-783498598b17422487f136b05970a488
       chat:
         options:
           top-k: 1
           top-p: 1
-          model: deepseek-r1
+          model: qwq-plus
 server:
-  port: 8081
+  port: 8082
