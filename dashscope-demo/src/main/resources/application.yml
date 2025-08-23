@@ -1,7 +1,7 @@
 spring:
   ai:
     dashscope:
-      api-key: sk-783498598b17422487f136b05970a488
+      api-key: sk-xxxxx # 示例密钥，运行前请替换为真实 Key
       chat:
         options:
           top-k: 1
